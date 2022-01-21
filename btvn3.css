@@ -1,0 +1,10 @@
+h1{ color:white;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;text-shadow: 2px 3px rgba(95, 95, 95, 0.973);text-align: center;}
+body{background-color: #f7f7f7;}
+h2{color:#5E5D5E ; font-family:'Courier New'; font-size: 19px;padding-top: 50px;text-align: center;}
+.head{box-sizing: border-box;padding: 50px;
+     
+    background: #d5bcb5;}
+    img{float: left;}
+ li{font-family: 'Courier New', Courier, monospace;line-height: 30px;}   
+ .about{padding-top: 30px;}
+  
